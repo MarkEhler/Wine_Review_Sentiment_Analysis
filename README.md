@@ -2,7 +2,7 @@
 
 The purpose of this repo is to take wine reviews form Wine Enthusiast magazine and use the reviews to predict the score in a form of labels sentiment anaysis.
 
-Data was cleaned transfered between the several modules meant to take the information from csv format and transform the text reveiews into toekns that will eventually be vetorized for use in final modules.
+Data was cleaned transfered between the several modules meant to take the information from csv format and transform the text reveiews into toekns that will eventually be vetorized for use in final modules.  For a quick low level overview of this project watch this <a href="https://youtu.be/HQ24muLnEmM"> video </a>.
 
 <h3> Table of Contents </h3>
 
